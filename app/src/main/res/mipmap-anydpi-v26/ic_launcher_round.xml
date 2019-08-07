@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config>
+                <device id="pixel" />
+                <device id="Nexus 10" />
+                <device id="pixel_xl" />
+                <device id="pixel_c" />
+                <device i

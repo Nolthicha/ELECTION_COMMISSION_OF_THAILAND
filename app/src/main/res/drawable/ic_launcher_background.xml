@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config>
+                <device id="pixel" />
+                <device id="Nexus 10" />
+                <device id="pixel_xl" />
+                <device id="pixel_c" />
+                <device id="Nexus 5X" />
+                <device id="pixel_3" />
+                <device id="pixel_2_xl" />
+                <device id="pixel_2" />
+                <device id="Nexus 6" />
+            </config>
+        </shared>
+    </component>
+    <component name="AndroidLogFilters">
+        <option
+            name="TOOL_WINDOW_CONFIGURED_FILTER"
+            value="Show only selected application" />
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="c15c8b50-f2da-4515-adab-2781726e3269" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view>
+                    <tree_state>
+                        <expand>
+                            <path>
+                                <item
+                                    name=""
+                                    type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                                <item
+                                    name="HelloAndroid"
+                                    type="f1a62948:ProjectNode" />
+                            </path>
+                        </expand>
+                        <select />
+                    </tree_state>
+                </projects_view>
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+                    <provider
+                        editor-type-id="android-designer2"
+                        selected="true" />
+                    <provider editor-type-id="text-editor">
+                        <state relative-caret-position="271">
+                            <caret
+                                column="39"
+                                line="16"
+                                selection-end-column="39"
+                                selection-end-line="16"
+                                selection-start-column="39"
+                                selection-start-line="16" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/helloandroid/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="34">
+                            <caret
+                                column="25"
+                                line="4"
+                                selection-end-column="25"
+                                selection-end-line="4"
+                                selection-start-column="25"
+                                selection-start-line="4" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/build.gradle">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/build.gradle">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="391">
+                            <caret
+                                line="23"
+                                selection-end-line="23"
+                                selection-start-line="23" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="CHANGED_PATHS">
+            <list>
+                <option value="$PROJECT_DIR$/app/src/main/java/com/example/helloandroid/MainActivity.java" />
+                <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+                <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+            </list>
+        </option>
+    </component>
+    <component
+        name="ProjectFrameBounds"
+        extendedState="6">
+        <option
+            name="x"
+            value="-8" />
+        <option
+            name="width"
+            value="1346" />
+        <option
+            name="height"
+            value="688" />
+    </component>
+    <component name="ProjectView">
+        <navigator
+            proportions=""
+            version="1">
+            <foldersAlwaysOnTop value="true" />
+        </navigator>
+        <panes />
+    </component>
+    <component name="PropertiesComponent">
+        <property
+            name="android.sdk.path"
+            value="$USER_HOME$/AppData/Local/Android/Sdk" />
+        <property
+            name="settings.editor.selected.configurable"
+            value="AndroidSdkUpdater" />
+    </component>
+    <component name="RunDashboard">
+        <option name="ruleStates">
+            <list>
+                <RuleState>
+                    <option
+                        name="name"
+                        value="ConfigurationTypeDashboardGroupingRule" />
+                </RuleState>
+                <RuleState>
+                    <option
+                        name="name"
+                        value="StatusDashboardGroupingRule" />
+                </RuleState>
+            </list>
+        </option>
+    </component>
+    <component name="RunManager">
+        <configuration
+            default="true"
+            factoryName="Android JUnit"
+            type="AndroidJUnit">
+            <option
+                name="TEST_OBJECT"
+                value="class" />
+            <option
+                name="WORKING_DIRECTORY"
+                value="$MODULE_DIR$" />
+            <method v="2">
+                <option na
